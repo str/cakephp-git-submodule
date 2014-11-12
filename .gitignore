@@ -1,0 +1,8 @@
+# IDE #
+.buildpath
+.project
+.settings/
+
+# CakePHP #
+/app/tmp/*
+/app/Config/database.php
